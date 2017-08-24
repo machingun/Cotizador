@@ -1,0 +1,107 @@
+html, body {
+	margin: 0px; 
+	padding: 0px; 
+	overflow: auto;
+}
+body { 
+    background: #f2f2f2; 
+    font-family: Arial; 
+    font-size: 10px; 
+    line-height: 1; 
+    color: #000000; 
+		margin: 0px; 
+	padding: 0px; 
+} 
+#dina4 {
+    width: 176.39mm;
+    height: 279.77mm;
+    padding: 20px 60px; 
+    border: 1px solid #D2D2D2; 
+    background: #fff;
+    margin: 5px auto;
+}
+#bordesiztop{
+  border-left:1pt solid #8b8e87;
+  border-top:1pt solid #8b8e87;
+    border-bottom:1pt solid #8b8e87;
+  padding: 5px;
+}
+#bordesdertop{
+  border-right:1pt solid #8b8e87;
+  border-top:1pt solid #8b8e87;
+    border-bottom:1pt solid #8b8e87;
+  padding: 5px;
+}
+#bordesizbottom{
+  border-left:1pt solid #8b8e87;
+  border-bottom:1pt solid #8b8e87;
+  padding: 5px;
+}
+#bordesderbottom{
+  border-right:1pt solid #8b8e87;
+  border-bottom:1pt solid #8b8e87;
+  padding: 5px;
+}
+.inputcentrado {
+
+   background: none;
+   border:0px;
+   }
+.inputcentrado2 {
+   text-align: center;
+   background: none;
+   border:0px;
+   color: #FF0000;
+   width: 110px;
+   font-weight: 700;
+   font-size: 15px;
+   }
+input {
+   text-align: center;
+   background: none;
+   border:0px;
+   }
+.botonselect {
+
+	appearance:none;
+   -moz-appearance:none;
+   -webkit-appearance:none;    
+   background-color: #00a1e1;
+   color: #FFFFFF;  
+   padding: 4px;
+   width: 175px; 
+   font-weight: 700;
+   }
+   .monto {
+text-align-last:center; 
+	appearance:none;
+   -moz-appearance:none;
+   -webkit-appearance:none;    
+   color: #000000;  
+
+   width: 75px; 
+   font-weight: 700;
+   }
+      .moto2 {
+text-align-last:center; 
+	appearance:none;
+   -moz-appearance:none;
+   -webkit-appearance:none;    
+   color: #000000;  
+
+   width: 75px; 
+   font-weight: 700;
+   }
+      .montno {
+text-align-last:center; 
+	appearance:none;
+   -moz-appearance:none;
+   -webkit-appearance:none;    
+   color: #000000;  
+
+   width: 75px; 
+   font-weight: 700;
+   }
+   
+
+   
